@@ -34,4 +34,10 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
+   https://github.com/Anbarasan-P/Safety-Chatbot-using-python.git
+2. **Install dependencies**:
+   ```bash
    pip install -r requirements.txt
+3.**Download spaCy model**:
+   ```bash
+    python -m spacy download en_core_web_sm
